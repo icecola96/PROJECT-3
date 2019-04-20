@@ -199,7 +199,7 @@ h3 {
   left:0;
   top:0;
   list-style-type: none;
-  overflow: hidden;
+  overflow: scroll;
   margin: 0;
   width: 100%;
   background-color: #FFFFFF;
