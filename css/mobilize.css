@@ -1,0 +1,63 @@
+@media only screen and (min-width: 700px) {
+  .leftpage{
+    padding: 4%;
+    width: 30%;
+    font-size: 80%;	  
+  }  
+  .rightpage{
+    padding: 4%;
+    width: 30%;
+    font-size: 80%;
+  }
+  .index{
+    border-left: 10px solid LightBlue;
+    border-right: 10px solid LightBlue;
+    font-size: 80%;
+  }
+  .footer{
+    height: 80%;
+    line-height: 80%;
+    font-size: 80%;
+  }	  
+  .pagename{
+    height: 80%;
+    line-height: 80%;
+  }	  
+
+}
+
+@media only screen and (min-width: 1000px) {
+  .leftpage{
+    padding: 5%;
+    width: 33%;
+    font-size: 90%;  
+  }
+  
+  .rightpage{
+    padding: 5%;
+    width: 33%;
+    font-size: 90%;
+	  
+  }
+  .index{
+    border-left: 13px solid LightBlue;
+    border-right: 13px solid LightBlue;
+    font-size: 90%;
+  }
+  .footer{
+    height: 90%;
+    line-height: 90%;
+    font-size: 90%;
+  }
+  .pagename{
+    height: 90%;
+    line-height: 90%;
+    margin: auto;
+    text-align: justify;
+    text-decoration: overline;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 3px 2px lightgrey;
+  }
+  
+}
